@@ -1,0 +1,154 @@
+<kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
+  <Document>
+    <name>af</name>
+    <open>1</open>
+    <PhotoOverlay id="Africa_Museum_Nijmegen.jpg">
+      <name>Africa_Museum_Nijmegen.jpg</name>
+      <TimeStamp>
+        <when>2011-11-08T14:14:39Z</when>
+      </TimeStamp>
+      <description><![CDATA[<span style="font-weight: bold; color: #000000; padding: 3px;">Make</span>:&nbsp;
+<span style="color: #000000; padding:3px;">SONY</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Model</span>:&nbsp;
+<span style="color: #000000; padding:3px;">DSC-HX100V             </span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Orientation</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">XResolution</span>:&nbsp;
+<span style="color: #000000; padding:3px;">72/1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">YResolution</span>:&nbsp;
+<span style="color: #000000; padding:3px;">72/1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ResolutionUnit</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">DateTime</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2011-11-08T14:14:39Z</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">YCbCrPositioning</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ExposureTime</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1/1000</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">FNumber</span>:&nbsp;
+<span style="color: #000000; padding:3px;">28/10</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ExposureProgram</span>:&nbsp;
+<span style="color: #000000; padding:3px;">8</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ISOSpeedRatings</span>:&nbsp;
+<span style="color: #000000; padding:3px;">100</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ExifVersion</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0230</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">DateTimeOriginal</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2011:11:08 14:14:39</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">DateTimeDigitized</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2011:11:08 14:14:39</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ComponentsConfiguration</span>:&nbsp;
+<span style="color: #000000; padding:3px;">
+#1
+#2
+#3
+#0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">CompressedBitsPerPixel</span>:&nbsp;
+<span style="color: #000000; padding:3px;">3/1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">BrightnessValue</span>:&nbsp;
+<span style="color: #000000; padding:3px;">24344/2560</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ExposureBiasValue</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0/10</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">MaxApertureValue</span>:&nbsp;
+<span style="color: #000000; padding:3px;">48/16</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">MeteringMode</span>:&nbsp;
+<span style="color: #000000; padding:3px;">5</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">LightSource</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Flash</span>:&nbsp;
+<span style="color: #000000; padding:3px;">16</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">FocalLength</span>:&nbsp;
+<span style="color: #000000; padding:3px;">480/100</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">FlashPixVersion</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0100</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ColorSpace</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">FileSource</span>:&nbsp;
+<span style="color: #000000; padding:3px;">3</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">SceneType</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">CustomRendered</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ExposureMode</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">WhiteBalance</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">DigitalZoomRatio</span>:&nbsp;
+<span style="color: #000000; padding:3px;">16/16</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">SceneCaptureType</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Contrast</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Saturation</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">Sharpness</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSLatitude</span>:&nbsp;
+<span style="color: #000000; padding:3px;">51.812548</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSLongitude</span>:&nbsp;
+<span style="color: #000000; padding:3px;">5.909618</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSAltitude</span>:&nbsp;
+<span style="color: #000000; padding:3px;">48.116</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSTimeStamp</span>:&nbsp;
+<span style="color: #000000; padding:3px;">
+*12/1
+*14/1
+*40000/1000</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSStatus</span>:&nbsp;
+<span style="color: #000000; padding:3px;">A</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSMeasureMode</span>:&nbsp;
+<span style="color: #000000; padding:3px;">3</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSDOP</span>:&nbsp;
+<span style="color: #000000; padding:3px;">13644/10000</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSSpeedRef</span>:&nbsp;
+<span style="color: #000000; padding:3px;">K</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSSpeed</span>:&nbsp;
+<span style="color: #000000; padding:3px;">666/1000</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSTrackRef</span>:&nbsp;
+<span style="color: #000000; padding:3px;">T</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSTrack</span>:&nbsp;
+<span style="color: #000000; padding:3px;">20146/100</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSImgDirectionRef</span>:&nbsp;
+<span style="color: #000000; padding:3px;">M</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSImgDirection</span>:&nbsp;
+<span style="color: #000000; padding:3px;">240.5</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSMapDatum</span>:&nbsp;
+<span style="color: #000000; padding:3px;">WGS-84</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSDateStamp</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2011:11:08</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSDifferential</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">GPSVersionID</span>:&nbsp;
+<span style="color: #000000; padding:3px;">0.0.3.2</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">MEDIAWIKI_EXIF_VERSION</span>:&nbsp;
+<span style="color: #000000; padding:3px;">1</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ImageWidth</span>:&nbsp;
+<span style="color: #000000; padding:3px;">3648</span><br>
+<span style="font-weight: bold; color: #000000; padding: 3px;">ImageHeight</span>:&nbsp;
+<span style="color: #000000; padding:3px;">2736</span><br>]]></description>
+      <Camera>
+        <longitude>5.909618</longitude>
+        <latitude>51.812548</latitude>
+        <altitude>48.116000</altitude>
+        <heading>240.5</heading>
+        <tilt>90.0</tilt>
+        <roll>0.0</roll>
+      </Camera>
+      <Icon>
+        <href>https://upload.wikimedia.org/wikipedia/commons/2/26/Africa_Museum_Nijmegen.jpg</href>
+      </Icon>
+      <ViewVolume>
+        <leftFov>-40</leftFov>
+        <rightFov>40</rightFov>
+        <bottomFov>-30</bottomFov>
+        <topFov>30</topFov>
+        <near>50</near>
+      </ViewVolume>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>51.81255,5.90962,48</coordinates>
+      </Point>
+      <shape>rectangle</shape>
+    </PhotoOverlay>
+  </Document>
+</kml>

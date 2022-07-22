@@ -1,0 +1,31 @@
+<kml xmlns:xsd="https://schemas.opengis.net/kml/2.2.0/ogckml22.xsd" xmlns:xmlns="https://www.opengis.net/kml/2.2/" version="1.0">
+  <Document>
+    <name>TWI</name>
+    <open>1</open>
+    <Folder>
+      <name>SpatialGridDataFrame</name>
+      <GroundOverlay>
+        <name>colour</name>
+        <altitude>0</altitude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <Icon>
+          <href>TWISRT6.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>51.5992741061639</north>
+          <south>51.4940911061639</south>
+          <east>10.1611471095319</east>
+          <west>9.99986710953192</west>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+    <ScreenOverlay>
+      <name>Legend</name>
+      <Icon>
+        <href>TWISRT6_legend.png</href>
+      </Icon>
+      <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+      <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+  </Document>
+</kml>
